@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://www.netbeans.org/ns/project/1">
+    <type>org.netbeans.modules.java.j2seproject</type>
+    <configuration>
+        <data xmlns="http://www.netbeans.org/ns/j2se-project/3">
+            <name>Group 1</name>
+            <source-roots>
+                <root id="src.dir" name="AdminConsole_v2/src"/>
+                <root id="src2.dir" name="Algorithm_v2/src"/>
+                <root id="src3.dir" name="Car_v2/src"/>
+                <root id="src4.dir" name="CarController_v2/src"/>
+                <root id="src5.dir" name="Door/src"/>
+                <root id="src6.dir" name="DoorPanel/src"/>
+                <root id="src7.dir" name="FloorPanel_v2/src"/>
+                <root id="src8.dir" name="FloorPanelQueue/src"/>
+                <root id="src9.dir" name="MetaController_v2/src"/>
+                <root id="src10.dir" name="UserPanel_v2/src"/>
+                <root id="src11.dir" name="UserPanelQueue_v2/src"/>
+            </source-roots>
+            <test-roots/>
+        </data>
+    </configuration>
+</project>
